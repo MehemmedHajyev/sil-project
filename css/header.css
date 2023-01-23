@@ -1,0 +1,26 @@
+.fl-header {
+    position: relative;
+    z-index: 20;
+}
+
+/* progress */
+
+.fl-progress {
+    background-color: var(--white);
+}
+
+.fl-progress-copyright {
+    background-color: var(--white);
+    color: var(--black);
+    font-family: Plus Jakarta Sans;
+}
+
+.fl-progress.fl-progress-is-ended .progress-img {
+    animation-play-state: paused;
+}
+
+/* the-end-of-progress */
+
+/* navbar */
+
+/* the-end-of-navbar */
